@@ -1,0 +1,261 @@
+#UWAGA ! ######################################## # # #                   Licencja : 
+#Jest to nadal rozwijana wersja skryptu ######### # # # #
+#Autor (Crido) Zastrzega Prawa Autorskie######### # # # # # #               Licencja :
+#Strona autora : Crido.Net.PL#################### # # # # # # #
+#Kontakt: cridocommunity@protonmail.com########## # # # # # # # #
+#Usuniecie informacji o autorze oznacza ######### # # # # # # # # #                Licencja:
+#Naruszenie praw autorskich###################### # # # # # # # # # # 
+#Blad skryptu ? Napisz do mnie na maila/forum#### # # # # # # # # # # #
+# ################################################# # # # # # # # # # # # #
+#===========================================================================         Licencja:
+#                                          `-.`'.-'
+#                                       `-.        .-'.
+#                                    `-.    -./\.-    .-'
+#                                        -.  /_|\  .-
+#                                    `-.   `/____\'   .-'.
+#                                 `-.    -./.-""-.\.-      '
+#                                    `-.  /< (()) >\  .-'
+#                                  -   .`/__`-..-'__\'   .-
+#                               ,...`-./___|____|___\.-'.,.  
+#								
+#     )\  / )               /\             ( \  /(             /\
+#    / / ( (                |      CRIDO NOVANETOWRKS version 2 |              ) ) \ \
+#    | |   \ \               |          |dev 10.01.19|          |             / /   | |
+# .-.\ \    \ \              |           by CRidoTecH           |            / /    / /.-.
+#(=  )\ `._.' |              |     nova-networks.eu/discord     |            | `._.' /(  =)
+#\ (_)       )              | -------------------------------- |            (       (_) /
+#  \    `----'               |"CODE ILLEGAL" imposibble          |             '----`    /
+#                            \ -------------------------------- /
+#
+#It is possible that the defcon is frozen
+#
+#hi :^)
+#==========================================================================================
+#--[[
+#
+#
+#---#                                !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+#-#
+#-
+#-#######################################            #######
+#-### Nie usuwaj informacji o autorze ###          ##       ##
+#-### CTECH                             ###       #    #####   #
+#-### Jesli ktos inny ma maszyne ...  ###         #  #        #
+#-### Bez zgody autora lub ...        ###         #   #        #
+#-### Usunie informacje o autorze...  ###        #  #        #
+#-### To moze zostac ukarany !        ###         #  #        #
+#-### Tworcy przysluguja prawa autor- ###        #  #        #
+#-### skie !!!                        ###        #   #####   #
+#-#######################################         ##       ##
+#-                                                  #######     @Copyright 2019 CRIDO
+#-#############################################
+#-###          Profil Steam Autora:         ###
+#-### http://steamcommunity.com/id/hexiohex ###
+#-#############################################
+#-
+#-#                                !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+#---
+#
+#| | | |
+#| | | |
+#| | | |
+#| | | |
+#v v v v
+#
+#--]]
+#
+#| | | |
+#| | | |
+#| | | |
+#| | | |
+#v v v v
+#
+#--[[
+#-HIGHT\_____ 
+#-HIGHT ORBIT\___
+#-HIGHT ORBIT ION\______ 
+#-HIGHT ORBIT ION CANNON\_______
+#-WORKING HIGHT ORBIT ION CANNON\__________________________________________                                                                                        
+#-WORKING HIGHT ORBIT ION CANNON /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\|=====================-----------------------------------------------------------|__--|===-=-=-=-=-=---------===================----------============-----------------====== ||||||||||||||||||  NOVA-ANTY>HIGHT>ORBIT>ION>CANNON>PROTECTION <<>> CRIDOCOMMUNITY |\/|
+#-WORKING HIGHT ORBIT ION CANNON/|b|b|b|b|b|b|b|b|b|b|b|b|b|b|b|b|b|b|b|b|/
+#-HIGHT ORBIT ION CANNON/\\\
+#-HIGHT ORBIT ION/\\\
+#-HIGHT ORBIT/\\\
+#-HIGHT/\\\
+#--]]
+#
+#| | | |
+#| | | |
+#| | | |
+#| | | |
+#v v v v
+#
+#--[[
+#--
+#CRETOR:
+#-CRIDO
+#--
+#COPYRIGHT
+#By Crido
+#--
+#DONATE:
+#-PayPal :
+#+ arkadiusz.mierzwa@interia.pl
+#--
+#CONTACT :
+#EMAIL :
+#+cridocommunity@protonmail.com
+#DISCORD :
+#+nova-networks.eu/discord
+#STEAM :
+#+nova-networks.eu/steam
+#WEBSITE :
+#+nova-networks.eu
+#--
+#
+#-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+#|>! ! ! ! ! !! ! ! ! ! !! ! ! ! ! !<|
+#|>! ! ! ! ! ! ATTENTION ! ! ! ! ! !<|
+#|>! ! ! ! ! !! ! ! ! ! !! ! ! ! ! !<|
+#-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+#/\------------------------/\
+#Dont copy/upload this script 
+#(COPYRIGHT/ILLEGALLICENSE)
+#All rights reserved 
+#/\------------------------/\
+#=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+#/\-------------------/\
+#Script made by : Crido 
+#/\-------------------/\
+#=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+#/\----------------------------------------------------------------/\
+#
+#DO YOU USE ILLEGAL COPYING ?
+#You may syffer legal consequences on the script are imposed laws
+# _________________________
+#/                         |\>       </>
+#|HIGHT ORBIT ION CANNON   \|>>>>>=========>>>>>========//>===---'''--'--//>===========******************++++++++++++=++=====++++++++++++++++============**************========+++  ||||||||||||||||||  NOVA-ANTY>HIGHT>ORBIT>ION>CANNON>PROTECTION <<>> CRIDOCOMMUNITY
+#\_________________________|/>      </>
+#
+#If you dont use illegal copy you are asking the awesome and thanks
+#for using my script
+#
+#/\-----------------------------------------------------------------/\
+#/\-----------------------------------------------------------------/\
+#LICENSE<><><><><><><><><><><><><><><><>+/        ][[]
+#-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-|+\
+#-=-CTECH-=-               /\         | +/                                      ][][
+#-=-Nova-Networks.EU-=-       /\      |+\
+#-=-GamingEmpire-=-               /\  | +/                         ][][
+#-=-TeslaGames-=-         /\          |+\
+#-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-| +/
+#  \   \      \           \          /|+\      [][                        
+#___________________________________| | +/                             
+# / | | | | | | | | | | | | | | | | | |+\__               ][][
+#------------------------------------------|
+#                                           \/
+#____________________________________________x_________________________________________________________
+#[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]|
+#/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\|
+#------------------------------------------------------------------------------------------------------|
+#/*---------------------------------------------------------------------------
+#	
+#	Creator: Crido - Nova-Networks.EU
+#	This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
+#	To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
+#	
+#---------------------------------------------------------------------------*/
+#
+#
+#STEP 1
+#-------
+#Upload this folder to the 'Scripts' folder in 'plugins/skript/scripts'.
+#
+#STEP 2
+#-------
+#Don't change Setting !'.
+
+
+
+
+
+
+command /gui [<text>]:
+    trigger:
+        if player has permission "crido.gui" or "crido.wszystko":
+            open chest with 3 rows named "&6 Crido GUI" to player
+            loop 9 times:
+            set player's current inventory's slot 10 to book named "&7Wylacz czat " 
+            set player's current inventory's slot 11 to book named "&7Wlacz czat " 
+            set player's current inventory's slot 12 to torch named "&7Niesmiertelnosc"
+            set player's current inventory's slot 13 to splash potion of invisibility named "&7Vanish (ON)(OFF)" 
+            set player's current inventory's slot 14 to paper named "&7Wyczysc Czat" 
+            set player's current inventory's slot 15 to water bucket named "&7Wylacz deszcz " 
+            set player's current inventory's slot 16 to yellow wool named "&7 Dzien " 
+on inventory click:
+	if inventory name of player's current inventory is "&6 Crido GUI":
+		cancel event #Dzieki CANCEL EVENT nie mozna wyjac itemow.
+		if clicked slot is 13:
+			if {v::%player%} is not set: 
+				set {v::%player%} to true
+				send "&8» Aktywowano vanisha!"
+				loop all players: 
+					if loop-player don't have permission "crido.vanishshow":
+						add loop-player to {_g::*}
+				hide player from {_g::*}
+				stop
+			if {v::%player%} is set:
+				clear {v::%player%}
+				send "&8» Zdezaktywowano vanisha"
+				reveal player to all players
+				stop
+on inventory click:
+	if inventory name of player's current inventory is "&6 Crido GUI":
+		cancel event #Dzieki CANCEL EVENT nie mozna wyjac itemow.
+		if clicked slot is 14:
+			loop all players:
+				loop 100 times:
+					send "" to player 
+				broadcast "&5>> Chat zostal wyczyszczony przez &c%player%"
+				stop
+on inventory click:
+	if inventory name of player's current inventory is "&6 Crido GUI":
+		cancel event #Dzieki CANCEL EVENT nie mozna wyjac itemow.
+		if clicked slot is 12:
+			execute console command "god %player%"
+			send "&cWlaczono tryb niesmiertelnosci"
+			stop
+on inventory click:
+	if inventory name of player's current inventory is "&6 Crido GUI":
+		cancel event #Dzieki CANCEL EVENT nie mozna wyjac itemow.
+		if clicked slot is 11:
+			send "&8» &cWlaczyles &6chat!"
+			broadcast "&8» &6Chat zostal &awlaczony &6przez &7%player%"
+			set {chat.status} to true
+			stop
+on inventory click:
+	if inventory name of player's current inventory is "&6 Crido GUI":
+		cancel event #Dzieki CANCEL EVENT nie mozna wyjac itemow.
+		if clicked slot is 10:
+			send "&8» &cWylaczyles &6chat!"
+			broadcast "&8» &6Chat zostal &cwylaczony &6przez &7%player%"
+			set {chat.status} to false
+			stop
+on inventory click:
+	if inventory name of player's current inventory is "&6 Crido GUI":
+		cancel event #Dzieki CANCEL EVENT nie mozna wyjac itemow.
+		if clicked slot is 15:
+			send "&8» &cWylaczyles &6descz!"
+			broadcast "»&c%player% &5wylaczyl deszcz !"
+			execute console command "weather clear"
+			stop
+on inventory click:
+	if inventory name of player's current inventory is "&6 Crido GUI":
+		cancel event #Dzieki CANCEL EVENT nie mozna wyjac itemow.
+		if clicked slot is 16:
+			send "&8» &cZmieniasz pore dnia na  &6dzien!"
+			broadcast "»&c%player% &5ustawia dzien !"
+			execute console command "time set day"
+			stop
+
+
